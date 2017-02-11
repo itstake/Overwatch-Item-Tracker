@@ -9,12 +9,12 @@
     "items": {
       "icons": [
         {
-          "name": "Archery",
+          "name": "양궁",
           "id": "hanzo-archery",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/hanzo-archery.png"
         },
         {
-          "name": "Australia",
+          "name": "호주",
           "id": "australia",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/australia.png"
         },
@@ -24,187 +24,187 @@
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/reaper-bmx.png"
         },
         {
-          "name": "Badminton",
+          "name": "배드민턴",
           "id": "mercy-badminton",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/mercy-badminton.png"
         },
         {
-          "name": "Basketball",
+          "name": "농구",
           "id": "pharah-basketball",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/pharah-basketball.png"
         },
         {
-          "name": "Boxing",
+          "name": "복싱",
           "id": "bastion-boxing",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/bastion-boxing.png"
         },
         {
-          "name": "Brazil",
+          "name": "브라질",
           "id": "brazil",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/brazil.png"
         },
         {
-          "name": "China",
+          "name": "중국",
           "id": "china",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/china.png"
         },
         {
-          "name": "Cycling",
+          "name": "사이클",
           "id": "dva-cycling",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/dva-cycling.png"
         },
         {
-          "name": "Diving",
+          "name": "다이빙",
           "id": "roadhog-diving",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/roadhog-diving.png"
         },
         {
-          "name": "Egypt",
+          "name": "이집트",
           "id": "egypt",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/egypt.png"
         },
         {
-          "name": "Equestrian",
+          "name": "승마",
           "id": "mccree-equestrian",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/mccree-equestrian.png"
         },
         {
-          "name": "Fencing",
+          "name": "펜싱",
           "id": "genji-fencing",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/genji-fencing.png"
         },
         {
-          "name": "Football",
+          "name": "축구",
           "id": "lucio-football",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/lucio-football.png"
         },
         {
-          "name": "France",
+          "name": "프랑스",
           "id": "france",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/france.png"
         },
         {
-          "name": "Germany",
+          "name": "독일",
           "id": "germany",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/germany.png"
         },
         {
-          "name": "Golf",
+          "name": "골프",
           "id": "soldier-76-golf",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/soldier-76-golf.png"
         },
         {
-          "name": "Greece",
+          "name": "그리스",
           "id": "greece",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/greece.png"
         },
         {
-          "name": "Gymnastics",
+          "name": "체조",
           "id": "widowmaker-gymnastics",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/widowmaker-gymnastics.png"
         },
         {
-          "name": "Japan",
+          "name": "일본",
           "id": "japan",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/japan.png"
         },
         {
-          "name": "Mexico",
+          "name": "멕시코",
           "id": "mexico",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/mexico.png"
         },
         {
-          "name": "Nepal",
+          "name": "네팔",
           "id": "nepal",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/nepal.png"
         },
         {
-          "name": "Numbani",
+          "name": "눔바니",
           "id": "numbani",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/numbani.png"
         },
         {
-          "name": "Rhythmic Gymnastics",
+          "name": "리듬체조",
           "id": "symmetra-rhythmic-gymnastics",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/symmetra-rhythmic-gymnastics.png"
         },
         {
-          "name": "Russia",
+          "name": "러시아",
           "id": "russia",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/russia.png"
         },
         {
-          "name": "Shooting",
+          "name": "사격",
           "id": "ana-shooting",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/ana-shooting.png"
         },
         {
-          "name": "South Korea",
+          "name": "대한민국",
           "id": "south-korea",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/south-korea.png"
         },
         {
-          "name": "Summer Games",
+          "name": "2016 하계 스포츠 대회",
           "id": "summer-games",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/summer-games.png"
         },
         {
-          "name": "Sweden",
+          "name": "스웨덴",
           "id": "sweden",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/sweden.png"
         },
         {
-          "name": "Switzerland",
+          "name": "스위스",
           "id": "switzerland",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/switzerland.png"
         },
         {
-          "name": "Table Tennis",
+          "name": "탁구",
           "id": "mei-table-tennis",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/mei-table-tennis.png"
         },
         {
-          "name": "Taekwondo",
+          "name": "태권도",
           "id": "zenyatta-taekwondo",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/zenyatta-taekwondo.png"
         },
         {
-          "name": "Tennis",
+          "name": "테니스",
           "id": "junkrat-tennis",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/junkrat-tennis.png"
         },
         {
-          "name": "Track",
+          "name": "육상",
           "id": "tracer-track",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/tracer-track.png"
         },
         {
-          "name": "United Kingdom",
+          "name": "영국",
           "id": "united-kingdom",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/united-kingdom.png"
         },
         {
-          "name": "United States",
+          "name": "미국",
           "id": "united-states",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/united-states.png"
         },
         {
-          "name": "Volleyball",
+          "name": "배구",
           "id": "winston-volleyball",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/winston-volleyball.png"
         },
         {
-          "name": "Water Polo",
+          "name": "수구",
           "id": "torbjorn-water-polo",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/torbjorn-water-polo.png"
         },
         {
-          "name": "Weightlifting",
+          "name": "역도",
           "id": "zarya-weightlifting",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/zarya-weightlifting.png"
         },
         {
-          "name": "Wrestling",
+          "name": "레슬링",
           "id": "reinhardt-wrestling",
           "img": "./resources/updates/SUMMER_GAMES_2016/icons/reinhardt-wrestling.png"
         }
