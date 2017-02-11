@@ -357,6 +357,7 @@ OWI.filter('heroPortraitUrl', function () {
     '위도우메이커': 'widowmaker',
     '윈스턴': 'winston',
     '자리야': 'zarya',
+    '한조': 'hanzo',
     '젠야타': 'zenyatta'
 
   }
