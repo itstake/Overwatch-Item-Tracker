@@ -7,7 +7,7 @@ const EVENTS = {
 
 const EVENTNAMES = {
   [EVENTS.SUMMER16]: '2016 하계 스포츠 대회',
-  [EVENTS.HALLOWEEN16]: '2016 할로윈',
+  [EVENTS.HALLOWEEN16]: '2016 공포의 할로윈',
   [EVENTS.CHRISTMAS16]: '2016 환상의 겨울나라',
   [EVENTS.ROOSTER17]: '2017 붉은 닭의 해'
 }
