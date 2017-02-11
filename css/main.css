@@ -1,13 +1,13 @@
 @font-face {
   font-family: "Koverwatch";
-  src: local("Koverwatch"), url(../../../fonts/koverwatch.ttf) format("truetype");
+  src: local("Koverwatch"), url(../fonts/koverwatch.woff) format("woff"), url(../../../fonts/koverwatch.ttf) format("truetype");
   font-weight: 400;
   font-style: normal
 }
 
 @font-face {
   font-family: "Koverwatch";
-  src: local("Koverwatch"), url(../../../fonts/koverwatch.ttf) format("truetype");
+  src: local("Koverwatch"), url(../fonts/koverwatch.woff) format("woff"), url(../../../fonts/koverwatch.ttf) format("truetype");
   font-weight: 400;
   font-style: italic
 }
