@@ -6,7 +6,7 @@
 }
 
 @font-face {
-  font-family: "Koverwatch";
+  font-family: "Koverwatch Titling";
   src: local("Koverwatch"), url(../../../fonts/koverwatch.ttf) format("truetype");
   font-weight: 400;
   font-style: italic
@@ -21,7 +21,7 @@
 }
 
 body {
-  font-family: "Koverwatch";
+  font-family: "Koverwatch Titling";
   min-width: 1000px;
   background-color: #d0c7dc;
   color: #405275;
