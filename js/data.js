@@ -721,7 +721,7 @@ OWI.factory('Data', function() {
                  }
                },
                "HALLOWEEN_2016": {
-                 "name": "2016 공포의 할로윈",
+                 "name": "공포의 할로윈 2016",
                  "id": "HALLOWEEN_2016",
                  "dates": {
                    "start": "1476208800000",
@@ -1453,7 +1453,7 @@ OWI.factory('Data', function() {
                  }
                },
                "WINTER_WONDERLAND_2016": {
-                 "name": "2016 환상의 겨울나라",
+                 "name": "환상의 겨울나라 2016",
                  "id": "WINTER_WONDERLAND_2016",
                  "dates": {
                    "start": "1481652000000",
@@ -1463,7 +1463,7 @@ OWI.factory('Data', function() {
                    "sprays": [
                      {
                        "hero": "아나",
-                       "name": "Warm",
+                       "name": "따끈",
                        "id": "ana-warm",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/ana-warm.png",
@@ -1472,7 +1472,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "아나",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "ana-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/ana-ornament.png",
@@ -1481,7 +1481,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "바스티온",
-                       "name": "ORNAMENT",
+                       "name": "장식품",
                        "id": "bastion-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/bastion-ornament.png",
@@ -1490,7 +1490,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "바스티온",
-                       "name": "FESTIVE",
+                       "name": "즐거운 크리스마스",
                        "id": "bastion-festive",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/bastion-festive.png",
@@ -1499,7 +1499,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "D.Va",
-                       "name": "ORNAMENT",
+                       "name": "장식품",
                        "id": "dva-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/dva-ornament.png",
@@ -1508,7 +1508,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "D.Va",
-                       "name": "COOKIE",
+                       "name": "쿠키",
                        "id": "dva-cookie",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/dva-cookie.png",
@@ -1517,7 +1517,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "겐지",
-                       "name": "Kadomatsu",
+                       "name": "가도마쓰",
                        "id": "genji-kadomatsu",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/genji-kadomatsu.png",
@@ -1526,7 +1526,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "겐지",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "genji-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/genji-ornament.png",
@@ -1535,7 +1535,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "한조",
-                       "name": "Kadomatsu",
+                       "name": "가도마쓰",
                        "id": "hanzo-kadomatsu",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/hanzo-kadomatsu.png",
@@ -1544,7 +1544,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "한조",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "hanzo-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/hanzo-ornament.png",
@@ -1553,7 +1553,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "정크랫",
-                       "name": "\"WINTER\"",
+                       "name": "\"겨울\"",
                        "id": "junkrat-winter",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/junkrat-winter.png",
@@ -1562,7 +1562,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "junkrat-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/junkrat-ornament.png",
@@ -1571,7 +1571,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "루시우",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "lucio-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/lucio-ornament.png",
@@ -1580,7 +1580,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "루시우",
-                       "name": "Hockey",
+                       "name": "하키",
                        "id": "lucio-hockey",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/lucio-hockey.png",
@@ -1589,7 +1589,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "mccree-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/mccree-ornament.png",
@@ -1598,7 +1598,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Ugly Sweater",
+                       "name": "촌스러운 스웨터",
                        "id": "mccree-ugly-sweater",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/mccree-ugly-sweater.png",
@@ -1607,7 +1607,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메이",
-                       "name": "Sculpting",
+                       "name": "얼음 팬더",
                        "id": "mei-sculpting",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/mei-sculpting.png",
@@ -1616,7 +1616,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메이",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "mei-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/mei-ornament.png",
@@ -1625,7 +1625,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메르시",
-                       "name": "Snow Angel",
+                       "name": "눈의 천사",
                        "id": "mercy-snow-angel",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/mercy-snow-angel.png",
@@ -1634,7 +1634,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메르시",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "mercy-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/mercy-ornament.png",
@@ -1643,7 +1643,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "파라",
-                       "name": "Ice Fishing",
+                       "name": "얼음 낚시",
                        "id": "pharah-ice-fishing",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/pharah-ice-fishing.png",
@@ -1652,7 +1652,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "파라",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "pharah-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/pharah-ornament.png",
@@ -1661,7 +1661,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Stocking",
+                       "name": "양말",
                        "id": "reaper-stocking",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/reaper-stocking.png",
@@ -1670,7 +1670,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "reaper-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/reaper-ornament.png",
@@ -1679,7 +1679,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Ice Fishing",
+                       "name": "얼음 낚시",
                        "id": "reinhardt-ice-fishing",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/reinhardt-ice-fishing.png",
@@ -1688,7 +1688,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "reinhardt-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/reinhardt-ornament.png",
@@ -1697,7 +1697,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "로드호그",
-                       "name": "\"Winter\"",
+                       "name": "\"겨울\"",
                        "id": "roadhog-winter",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/roadhog-winter.png",
@@ -1706,7 +1706,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "roadhog-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/roadhog-ornament.png",
@@ -1715,7 +1715,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "soldier-76-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/soldier-76-ornament.png",
@@ -1724,7 +1724,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Army Man: 76",
+                       "name": "아미맨: 76",
                        "id": "soldier-76-army-man-76",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/soldier-76-army-man-76.png",
@@ -1733,7 +1733,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솜브라",
-                       "name": "Puppet",
+                       "name": "꼭두각시",
                        "id": "sombra-puppet",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/sombra-puppet.png",
@@ -1742,7 +1742,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솜브라",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "sombra-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/sombra-ornament.png",
@@ -1751,7 +1751,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Snowflake",
+                       "name": "눈꽃",
                        "id": "symmetra-snowflake",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/symmetra-snowflake.png",
@@ -1760,7 +1760,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "symmetra-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/symmetra-ornament.png",
@@ -1769,7 +1769,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Workshop",
+                       "name": "작업장",
                        "id": "torbjorn-workshop",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/torbjorn-workshop.png",
@@ -1778,7 +1778,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "torbjorn-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/torbjorn-ornament.png",
@@ -1787,7 +1787,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Snowboarding",
+                       "name": "스노우보딩",
                        "id": "tracer-snowboarding",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/tracer-snowboarding.png",
@@ -1796,7 +1796,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "tracer-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/tracer-ornament.png",
@@ -1805,7 +1805,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "Skiing",
+                       "name": "스키",
                        "id": "widowmaker-skiing",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/widowmaker-skiing.png",
@@ -1814,7 +1814,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "widowmaker-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/widowmaker-ornament.png",
@@ -1823,7 +1823,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Presents",
+                       "name": "선물",
                        "id": "winston-presents",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/winston-presents.png",
@@ -1832,7 +1832,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "winston-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/winston-ornament.png",
@@ -1841,7 +1841,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "자리야",
-                       "name": "Matryoshka",
+                       "name": "마트료시카",
                        "id": "zarya-matryoshka",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/zarya-matryoshka.png",
@@ -1850,7 +1850,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "자리야",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "zarya-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/zarya-ornament.png",
@@ -1859,7 +1859,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Snowball Fight",
+                       "name": "눈싸움",
                        "id": "zenyatta-snowball-fight",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/zenyatta-snowball-fight.png",
@@ -1868,7 +1868,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "zenyatta-ornament",
                        "quality": "common",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/zenyatta-ornament.png",
@@ -1876,28 +1876,28 @@ OWI.factory('Data', function() {
                        "ornamentURL": "./resources/updates/WINTER_WONDERLAND_2016/sprays/zenyatta-ornament.png"
                      },
                      {
-                       "name": "Winter Wonderland",
+                       "name": "환상의 겨울나라",
                        "id": "winter-wonderland",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/winter-wonderland.png",
                        "quality": "common"
                      },
                      {
-                       "name": "SnowReaper",
+                       "name": "스노우리퍼",
                        "id": "snowreaper",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/snowreaper.png"
                      },
                      {
-                       "name": "SnowMei",
+                       "name": "스노우메이",
                        "id": "snowmei",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/snowmei.png"
                      },
                      {
-                       "name": "SnowHog",
+                       "name": "스노우호그",
                        "id": "snowhog",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/snowhog.png"
                      },
                      {
-                       "name": "SnowCree",
+                       "name": "스노우맥크리",
                        "id": "snowcree",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/sprays/snowcree.png"
                      }
@@ -1905,139 +1905,139 @@ OWI.factory('Data', function() {
                    "voicelines": [
                      {
                        "hero": "아나",
-                       "name": "I'm watching out for you",
+                       "name": "내가 널 지킨다",
                        "id": "ana-im-watching-out-for-you",
                        "quality": "common"
                      },
                      {
                        "hero": "바스티온",
-                       "name": "DWEE DOO HOO",
+                       "name": "뚜잇 듀 듀 듀",
                        "id": "bastion-dwee-doo-hoo",
                        "quality": "common"
                      },
                      {
                        "hero": "D.Va",
-                       "name": "Aw, you shouldn't have",
+                       "name": "아, 뭐 이런 걸 다",
                        "id": "dva-aw-you-shouldnt-have",
                        "quality": "common"
                      },
                      {
                        "hero": "겐지",
-                       "name": "Merry Christmas!",
+                       "name": "메리 크리스마스!",
                        "id": "genji-merry-christmas",
                        "quality": "common"
                      },
                      {
                        "hero": "한조",
-                       "name": "A gift for you",
+                       "name": "너에게 주는 선물",
                        "id": "hanzo-a-gift-for-you",
                        "quality": "common"
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Merry Christmas",
+                       "name": "메리 크리스마스",
                        "id": "junkrat-merry-christmas",
                        "quality": "common"
                      },
                      {
                        "hero": "루시우",
-                       "name": "Happy holidays!",
+                       "name": "축제를 즐겨!",
                        "id": "lucio-happy-holidays",
                        "quality": "common"
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Had to break the ice",
+                       "name": "너무 썰렁하니",
                        "id": "mccree-had-to-break-the-ice",
                        "quality": "common"
                      },
                      {
                        "hero": "메이",
-                       "name": "I got you something!",
+                       "name": "제가 준비한 게 있어요!",
                        "id": "mei-i-got-you-something",
                        "quality": "common"
                      },
                      {
                        "hero": "메르시",
-                       "name": "Your guardian angel",
+                       "name": "당신의 수호 천사",
                        "id": "mercy-your-guardian-angel",
                        "quality": "common"
                      },
                      {
                        "hero": "파라",
-                       "name": "The forecast",
+                       "name": "기상 예보",
                        "id": "pharah-the-forecast",
                        "quality": "common"
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Holiday spirit",
+                       "name": "연휴 분위기",
                        "id": "reaper-holiday-spirit",
                        "quality": "common"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "You're on my naughty list",
+                       "name": "넌 나쁜 아이 명단에 있더군",
                        "id": "reinhardt-youre-on-my-naughty-list",
                        "quality": "common"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Ho ho ho",
+                       "name": "호 호 호",
                        "id": "roadhog-ho-ho-ho",
                        "quality": "common"
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Stay frosty",
+                       "name": "정신 차려",
                        "id": "soldier-76-stay-frosty",
                        "quality": "common"
                      },
                      {
                        "hero": "솜브라",
-                       "name": "I know who's been naughty",
+                       "name": "누가 나쁜 앤지 난 알지",
                        "id": "sombra-i-know-whos-been-naughty",
                        "quality": "common"
                      },
                      {
                        "hero": "시메트라",
-                       "name": "I made you something",
+                       "name": "제가 뭘 좀 만들어 왔어요",
                        "id": "symmetra-i-made-you-something",
                        "quality": "common"
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Made to order",
+                       "name": "난 주문 제작만 해",
                        "id": "torbjorn-made-to-order",
                        "quality": "common"
                      },
                      {
                        "hero": "트레이서",
-                       "name": "It's in the bag",
+                       "name": "당연한 결과지",
                        "id": "tracer-its-in-the-bag",
                        "quality": "common"
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "Exquisite",
+                       "name": "최고야",
                        "id": "widowmaker-exquisite",
                        "quality": "common"
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "I... got you something",
+                       "name": "저... 드릴 게 있습니다",
                        "id": "winston-i-got-you-something",
                        "quality": "common"
                      },
                      {
                        "hero": "자리야",
-                       "name": "For the Motherland",
+                       "name": "조국을 위하여",
                        "id": "zarya-for-the-motherland",
                        "quality": "common"
                      },
                      {
                        "hero": "젠야타",
-                       "name": "No snowflake",
+                       "name": "눈송이는 없다오",
                        "id": "zenyatta-no-snowflake",
                        "quality": "common"
                      }
@@ -2045,49 +2045,49 @@ OWI.factory('Data', function() {
                    "poses": [
                      {
                        "hero": "아나",
-                       "name": "Toast",
+                       "name": "건배",
                        "id": "ana-toast",
                        "quality": "rare",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/poses/ana-toast.jpg"
                      },
                      {
                        "hero": "D.Va",
-                       "name": "Festive",
+                       "name": "축제",
                        "id": "dva-festive",
                        "quality": "rare",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/poses/dva-festive.jpg"
                      },
                      {
                        "hero": "메르시",
-                       "name": "Mistletoe",
+                       "name": "겨우살이",
                        "id": "mercy-mistletoe",
                        "quality": "rare",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/poses/mercy-mistletoe.jpg"
                      },
                      {
                        "hero": "파라",
-                       "name": "Toast",
+                       "name": "건배",
                        "id": "pharah-toast",
                        "quality": "rare",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/poses/pharah-toast.jpg"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Toast",
+                       "name": "건배",
                        "id": "reinhardt-toast",
                        "quality": "rare",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/poses/reinhardt-toast.jpg"
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Toast",
+                       "name": "건배",
                        "id": "soldier-76-toast",
                        "quality": "rare",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/poses/soldier-76-toast.jpg"
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Toast",
+                       "name": "건배",
                        "id": "torbjorn-toast",
                        "quality": "rare",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/poses/torbjorn-toast.jpg"
@@ -2096,49 +2096,49 @@ OWI.factory('Data', function() {
                    "skinsEpic": [
                      {
                        "hero": "루시우",
-                       "name": "Andes",
+                       "name": "안데스 산맥",
                        "id": "lucio-andes",
                        "quality": "epic",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/lucio-andes.jpg"
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Scrooge",
+                       "name": "스크루지",
                        "id": "mccree-scrooge",
                        "quality": "epic",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/mccree-scrooge.jpg"
                      },
                      {
                        "hero": "파라",
-                       "name": "Frostbite",
+                       "name": "동상",
                        "id": "pharah-frostbite",
                        "quality": "epic",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/pharah-frostbite.jpg"
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Shiver",
+                       "name": "오싹",
                        "id": "reaper-shiver",
                        "quality": "epic",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/reaper-shiver.jpg"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Rudolph",
+                       "name": "루돌프",
                        "id": "roadhog-rudolph",
                        "quality": "epic",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/roadhog-rudolph.jpg"
                      },
                      {
                        "hero": "솜브라",
-                       "name": "Peppermint",
+                       "name": "페퍼민트",
                        "id": "sombra-peppermint",
                        "quality": "epic",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/sombra-peppermint.jpg"
                      },
                      {
                        "hero": "자리야",
-                       "name": "Frosted",
+                       "name": "서리",
                        "id": "zarya-frosted",
                        "quality": "epic",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsEpic/zarya-frosted.jpg"
@@ -2147,14 +2147,14 @@ OWI.factory('Data', function() {
                    "emotes": [
                      {
                        "hero": "맥크리",
-                       "name": "Hat Trick",
+                       "name": "해트 트릭",
                        "id": "mccree-hat-trick",
                        "quality": "epic",
                        "video": "./resources/updates/WINTER_WONDERLAND_2016/emotes/mccree-hat-trick.webm"
                      },
                      {
                        "hero": "메이",
-                       "name": "Snowman",
+                       "name": "눈사람",
                        "id": "mei-snowman",
                        "quality": "epic",
                        "video": "./resources/updates/WINTER_WONDERLAND_2016/emotes/mei-snowman.webm"
@@ -2162,7 +2162,7 @@ OWI.factory('Data', function() {
                      {
                        "hero": "자리야",
                        "legendary": true,
-                       "name": "Mystery Gift",
+                       "name": "수수께끼의 선물",
                        "id": "zarya-mystery-gift",
                        "quality": "legendary",
                        "video": "./resources/updates/WINTER_WONDERLAND_2016/emotes/zarya-mystery-gift.webm"
@@ -2171,35 +2171,35 @@ OWI.factory('Data', function() {
                    "skinsLegendary": [
                      {
                        "hero": "메이",
-                       "name": "Mei-rry",
+                       "name": "메이리 크리스마스",
                        "id": "mei-meirry",
                        "quality": "legendary",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/mei-meirry.jpg"
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Santaclad",
+                       "name": "산타비욘",
                        "id": "torbjorn-santaclad",
                        "quality": "legendary",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/torbjorn-santaclad.jpg"
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Jingle",
+                       "name": "산타요정",
                        "id": "tracer-jingle",
                        "quality": "legendary",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/tracer-jingle.jpg"
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Yeti",
+                       "name": "예티",
                        "id": "winston-yeti",
                        "quality": "legendary",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/winston-yeti.jpg"
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Nutcracker",
+                       "name": "호두까기",
                        "id": "zenyatta-nutcracker",
                        "quality": "legendary",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/skinsLegendary/zenyatta-nutcracker.jpg"
@@ -2208,14 +2208,14 @@ OWI.factory('Data', function() {
                    "intros": [
                      {
                        "hero": "시메트라",
-                       "name": "Snowflakes",
+                       "name": "눈꽃",
                        "id": "symmetra-snowflakes",
                        "quality": "epic",
                        "video": "./resources/updates/WINTER_WONDERLAND_2016/intros/symmetra-snowflakes.webm"
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "Under the Mistletoe",
+                       "name": "겨우살이 아래서",
                        "id": "widowmaker-under-the-mistletoe",
                        "quality": "epic",
                        "video": "./resources/updates/WINTER_WONDERLAND_2016/intros/widowmaker-under-the-mistletoe.webm"
@@ -2228,127 +2228,127 @@ OWI.factory('Data', function() {
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/2017.png"
                      },
                      {
-                       "name": "Bells",
+                       "name": "종",
                        "id": "bells",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/bells.png"
                      },
                      {
-                       "name": "Bubbly",
+                       "name": "보글보글",
                        "id": "bubbly",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/bubbly.png"
                      },
                      {
-                       "name": "Candy Cane",
+                       "name": "지팡이 사탕",
                        "id": "candy-cane",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/candy-cane.png"
                      },
                      {
-                       "name": "Cheers!",
+                       "name": "짠!",
                        "id": "cheers",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/cheers.png"
                      },
                      {
-                       "name": "Dreidel",
+                       "name": "드레이들",
                        "id": "dreidel",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/dreidel.png"
                      },
                      {
-                       "name": "Gingerbread",
+                       "name": "생강 쿠키",
                        "id": "gingerbread",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/gingerbread.png"
                      },
                      {
-                       "name": "Gingermari",
+                       "name": "생강마리",
                        "id": "gingermari",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/gingermari.png"
                      },
                      {
-                       "name": "Holly",
+                       "name": "호랑가사나무 열매",
                        "id": "holly",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/holly.png"
                      },
                      {
-                       "name": "Hot Cocoa",
+                       "name": "따뜻한 코코아",
                        "id": "hot-cocoa",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/hot-cocoa.png"
                      },
                      {
-                       "name": "Jingle",
+                       "name": "산타요정",
                        "id": "tracer-jingle",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/tracer-jingle.png"
                      },
                      {
-                       "name": "Mochi",
+                       "name": "모찌",
                        "id": "mochi",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/mochi.png"
                      },
                      {
-                       "name": "Nutcracker",
+                       "name": "호두까기",
                        "id": "zenyatta-nutcracker",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/zenyatta-nutcracker.png"
                      },
                      {
-                       "name": "Ornament",
+                       "name": "장식품",
                        "id": "ornament",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/ornament.png"
                      },
                      {
-                       "name": "Pachimerry",
+                       "name": "파치메리",
                        "id": "pachimerry",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/pachimerry.png"
                      },
                      {
-                       "name": "Pachireindeer",
+                       "name": "파치순록",
                        "id": "pachireindeer",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/pachireindeer.png"
                      },
                      {
-                       "name": "Peppermint",
+                       "name": "페퍼민트",
                        "id": "peppermint",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/peppermint.png"
                      },
                      {
-                       "name": "Present",
+                       "name": "선물",
                        "id": "present",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/present.png"
                      },
                      {
-                       "name": "Santaclad",
+                       "name": "산타비욘",
                        "id": "torbjorn-santaclad",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/torbjorn-santaclad.png"
                      },
                      {
-                       "name": "Snow Globe",
+                       "name": "스노우 글로브",
                        "id": "snow-globe",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/snow-globe.png"
                      },
                      {
-                       "name": "Snowman",
+                       "name": "눈사람",
                        "id": "snowman",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/snowman.png"
                      },
                      {
-                       "name": "Stocking",
+                       "name": "양말",
                        "id": "stocking",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/stocking.png"
                      },
                      {
-                       "name": "Tannenbaum",
+                       "name": "크리스마스 트리",
                        "id": "tannenbaum",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/tannenbaum.png"
                      },
                      {
-                       "name": "Winter Wonderland",
+                       "name": "환상의 겨울나라 2016",
                        "id": "winter-wonderland",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/winter-wonderland.png"
                      },
                      {
-                       "name": "Wreath",
+                       "name": "화환",
                        "id": "wreath",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/wreath.png"
                      },
                      {
-                       "name": "Yeti",
+                       "name": "예티",
                        "id": "winston-yeti",
                        "img": "./resources/updates/WINTER_WONDERLAND_2016/icons/winston-yeti.png"
                      }
@@ -2366,42 +2366,42 @@ OWI.factory('Data', function() {
                    "skinsEpic": [
                      {
                        "hero": "아나",
-                       "name": "Tal",
+                       "name": "탈",
                        "id": "ana-tal",
                        "quality": "epic",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/ana-tal.jpg"
                      },
                      {
                        "hero": "바스티온",
-                       "name": "Rooster",
+                       "name": "닭",
                        "id": "bastion-rooster",
                        "quality": "epic",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/bastion-rooster.jpg"
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Firework",
+                       "name": "폭죽",
                        "id": "junkrat-firework",
                        "quality": "epic",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/junkrat-firework.jpg"
                      },
                      {
                        "hero": "메르시",
-                       "name": "Golden",
+                       "name": "황금",
                        "id": "mercy-golden",
                        "quality": "epic",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/mercy-golden.jpg"
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Qipao",
+                       "name": "치파오",
                        "id": "symmetra-qipao",
                        "quality": "epic",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/symmetra-qipao.jpg"
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Rose",
+                       "name": "로즈",
                        "id": "tracer-rose",
                        "quality": "epic",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsEpic/tracer-rose.jpg"
@@ -2410,7 +2410,7 @@ OWI.factory('Data', function() {
                    "sprays": [
                      {
                        "hero": "아나",
-                       "name": "Dance",
+                       "name": "춤",
                        "id": "ana-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/ana-dance.png",
@@ -2419,7 +2419,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "아나",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "ana-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/ana-dragon-dance.png",
@@ -2428,7 +2428,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "바스티온",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "bastion-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/bastion-dragon-dance.png",
@@ -2437,7 +2437,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "바스티온",
-                       "name": "Bast-yum",
+                       "name": "바스티얌",
                        "id": "bastion-bastyum",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/bastion-bastyum.png",
@@ -2446,7 +2446,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "D.Va",
-                       "name": "Seesaw",
+                       "name": "널뛰기",
                        "id": "dva-seesaw",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/dva-seesaw.png",
@@ -2455,7 +2455,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "D.Va",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "dva-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/dva-dragon-dance.png",
@@ -2464,7 +2464,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "겐지",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "genji-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/genji-dragon-dance.png",
@@ -2473,7 +2473,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "겐지",
-                       "name": "Green Dragon",
+                       "name": "녹색 용",
                        "id": "genji-green-dragon",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/genji-green-dragon.png",
@@ -2482,7 +2482,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "한조",
-                       "name": "Blue Dragon",
+                       "name": "푸른 용",
                        "id": "hanzo-blue-dragon",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/hanzo-blue-dragon.png",
@@ -2491,7 +2491,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "한조",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "hanzo-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/hanzo-dragon-dance.png",
@@ -2500,7 +2500,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "junkrat-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/junkrat-dragon-dance.png",
@@ -2509,7 +2509,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "정크랫",
-                       "name": "I'm flying!",
+                       "name": "난다! 날아!",
                        "id": "junkrat-im-flying",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/junkrat-im-flying.png",
@@ -2518,7 +2518,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "루시우",
-                       "name": "Keep Ups",
+                       "name": "제기차기",
                        "id": "lucio-keep-ups",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/lucio-keep-ups.png",
@@ -2527,7 +2527,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "루시우",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "lucio-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/lucio-dragon-dance.png",
@@ -2536,7 +2536,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Call It",
+                       "name": "동전 던지기",
                        "id": "mccree-call-it",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/mccree-call-it.png",
@@ -2545,7 +2545,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "mccree-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/mccree-dragon-dance.png",
@@ -2554,7 +2554,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메이",
-                       "name": "Fortune",
+                       "name": "복",
                        "id": "mei-fortune",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/mei-fortune.png",
@@ -2563,7 +2563,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메이",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "mei-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/mei-dragon-dance.png",
@@ -2572,7 +2572,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메르시",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "mercy-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/mercy-dragon-dance.png",
@@ -2581,7 +2581,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "메르시",
-                       "name": "Parasol",
+                       "name": "양산",
                        "id": "mercy-parasol",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/mercy-parasol.png",
@@ -2590,7 +2590,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "파라",
-                       "name": "Happy New Year",
+                       "name": "새해 복 많이 받으세요",
                        "id": "pharah-happy-new-year",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/pharah-happy-new-year.png",
@@ -2599,7 +2599,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "파라",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "pharah-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/pharah-dragon-dance.png",
@@ -2608,7 +2608,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Fire Blossom",
+                       "name": "불의 꽃",
                        "id": "reaper-fire-blossom",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/reaper-fire-blossom.png",
@@ -2617,7 +2617,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "reaper-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/reaper-dragon-dance.png",
@@ -2626,7 +2626,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Lion Dance",
+                       "name": "사자춤",
                        "id": "reinhardt-lion-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/reinhardt-lion-dance.png",
@@ -2635,7 +2635,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "reinhardt-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/reinhardt-dragon-dance.png",
@@ -2644,7 +2644,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Steamed Buns",
+                       "name": "찐빵",
                        "id": "roadhog-steamed-buns",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/roadhog-steamed-buns.png",
@@ -2653,7 +2653,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "roadhog-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/roadhog-dragon-dance.png",
@@ -2662,7 +2662,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Folded Hands",
+                       "name": "포권지례",
                        "id": "soldier-76-folded-hands",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/soldier-76-folded-hands.png",
@@ -2671,7 +2671,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "soldier-76-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/soldier-76-dragon-dance.png",
@@ -2680,7 +2680,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솜브라",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "sombra-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/sombra-dragon-dance.png",
@@ -2689,7 +2689,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "솜브라",
-                       "name": "Fortunate",
+                       "name": "다복",
                        "id": "sombra-fortunate",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/sombra-fortunate.png",
@@ -2698,7 +2698,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Lantern",
+                       "name": "등불",
                        "id": "symmetra-lantern",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/symmetra-lantern.png",
@@ -2707,7 +2707,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "symmetra-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/symmetra-dragon-dance.png",
@@ -2716,7 +2716,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Gold",
+                       "name": "황금",
                        "id": "torbjorn-gold",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/torbjorn-gold.png",
@@ -2725,7 +2725,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "torbjorn-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/torbjorn-dragon-dance.png",
@@ -2734,7 +2734,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Fan Dance",
+                       "name": "부채춤",
                        "id": "tracer-fan-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/tracer-fan-dance.png",
@@ -2743,7 +2743,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "tracer-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/tracer-dragon-dance.png",
@@ -2752,7 +2752,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "Hairpin",
+                       "name": "비녀",
                        "id": "widowmaker-hairpin",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/widowmaker-hairpin.png",
@@ -2761,7 +2761,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "widowmaker-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/widowmaker-dragon-dance.png",
@@ -2770,7 +2770,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Kite",
+                       "name": "연날리기",
                        "id": "winston-kite",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/winston-kite.png",
@@ -2779,7 +2779,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "winston-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/winston-dragon-dance.png",
@@ -2788,7 +2788,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "자리야",
-                       "name": "Calories",
+                       "name": "칼로리",
                        "id": "zarya-calories",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/zarya-calories.png",
@@ -2797,7 +2797,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "자리야",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "zarya-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/zarya-dragon-dance.png",
@@ -2806,7 +2806,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Yut Nori",
+                       "name": "윳놀이",
                        "id": "zenyatta-yut-nori",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/zenyatta-yut-nori.png",
@@ -2815,7 +2815,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "zenyatta-dragon-dance",
                        "quality": "common",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/zenyatta-dragon-dance.png",
@@ -2823,36 +2823,36 @@ OWI.factory('Data', function() {
                        "dragonURL": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/zenyatta-dragon-dance.png"
                      },
                      {
-                       "name": "Year of the Rooster",
+                       "name": "붉은 닭의 해",
                        "id": "year-of-the-rooster",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/year-of-the-rooster.png",
                        "quality": "common"
                      },
                      {
-                       "name": "Red Envelope",
+                       "name": "빨간 봉투",
                        "id": "red-envelope",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/red-envelope.png",
                        "quality": "common"
                      },
                      {
-                       "name": "Lucky Pouch",
+                       "name": "복주머니",
                        "id": "lucky-pouch",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/lucky-pouch.png",
                        "quality": "common"
                      },
                      {
-                       "name": "Dragon's Head",
+                       "name": "용두",
                        "id": "dragons-head",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/dragons-head.png",
                        "quality": "common"
                      },
                      {
-                       "name": "Awakened Lion",
+                       "name": "깨어난 사자",
                        "id": "awakened-lion",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/awakened-lion.png"
                      },
                      {
-                       "name": "Auspicious Lion",
+                       "name": "길조의 사자",
                        "id": "auspicious-lion",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/sprays/auspicious-lion.png"
                      }
@@ -2860,139 +2860,139 @@ OWI.factory('Data', function() {
                    "voicelines": [
                      {
                        "hero": "아나",
-                       "name": "The moon in winter",
+                       "name": "한겨울의 달처럼",
                        "id": "ana-the-moon-in-winter",
                        "quality": "common"
                      },
                      {
                        "hero": "바스티온",
-                       "name": "Woop doo woo dun woop",
+                       "name": "뚜입 두두두 뚜입 두두",
                        "id": "bastion-woop-doo-woo-dun-woop",
                        "quality": "common"
                      },
                      {
                        "hero": "D.Va",
-                       "name": "The best things in life",
+                       "name": "작은 고추가 매운 법이지",
                        "id": "dva-the-best-things-in-life",
                        "quality": "common"
                      },
                      {
                        "hero": "겐지",
-                       "name": "To know yourself",
+                       "name": "자신을 알아야",
                        "id": "genji-to-know-yourself",
                        "quality": "common"
                      },
                      {
                        "hero": "한조",
-                       "name": "When the moon is full",
+                       "name": "달도 차면 기우는 법",
                        "id": "hanzo-when-the-moon-is-full",
                        "quality": "common"
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Gong Xi Fa Cai",
+                       "name": "부자 되라고!",
                        "id": "junkrat-gong-xi-fa-cai",
                        "quality": "common"
                      },
                      {
                        "hero": "루시우",
-                       "name": "I make this look good...",
+                       "name": "내가 하니까 다르지?",
                        "id": "lucio-i-make-this-look-good",
                        "quality": "common"
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Calls for a celebration",
+                       "name": "축제 분위기인데?",
                        "id": "mccree-calls-for-a-celebration",
                        "quality": "common"
                      },
                      {
                        "hero": "메이",
-                       "name": "Wishing you prosperity",
+                       "name": "부자 되세요!",
                        "id": "mei-wishing-you-prosperity",
                        "quality": "common"
                      },
                      {
                        "hero": "메르시",
-                       "name": "A most impressive display",
+                       "name": "참으로 멋진 광경",
                        "id": "mercy-a-most-impressive-display",
                        "quality": "common"
                      },
                      {
                        "hero": "파라",
-                       "name": "I keep the peace",
+                       "name": "제가 평화를 지키겠습니다",
                        "id": "pharah-i-keep-the-peace",
                        "quality": "common"
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Now those are fireworks",
+                       "name": "그럴싸한 불꽃놀이로군",
                        "id": "reaper-now-those-are-fireworks",
                        "quality": "common"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Are you chicken?",
+                       "name": "혹시 닭띠 있는가?",
                        "id": "reinhardt-are-you-chicken",
                        "quality": "common"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "You chicken?",
+                       "name": "\"닭\" 쳐라!",
                        "id": "roadhog-you-chicken",
                        "quality": "common"
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "The rooster crows",
+                       "name": "닭이 울면",
                        "id": "soldier-76-the-rooster-crows",
                        "quality": "common"
                      },
                      {
                        "hero": "솜브라",
-                       "name": "You're easily impressed",
+                       "name": "너무 쉽게 감탄하는 거 아냐?",
                        "id": "sombra-youre-easily-impressed",
                        "quality": "common"
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Good fortune",
+                       "name": "운수대통",
                        "id": "symmetra-good-fortune",
                        "quality": "common"
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Too hot for you?",
+                       "name": "너무 뜨거운가?",
                        "id": "torbjorn-too-hot-for-you",
                        "quality": "common"
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Ready for some fireworks?",
+                       "name": "불꽃놀이 할 사람?",
                        "id": "tracer-ready-for-some-fireworks",
                        "quality": "common"
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "You have my attention",
+                       "name": "신경 좀 써 줄게",
                        "id": "widowmaker-you-have-my-attention",
                        "quality": "common"
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "That was awesome!",
+                       "name": "완전 끝내주는군요!",
                        "id": "winston-that-was-awesome",
                        "quality": "common"
                      },
                      {
                        "hero": "자리야",
-                       "name": "Get pumped",
+                       "name": "울끈불끈",
                        "id": "zarya-get-pumped",
                        "quality": "common"
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Every rooster crows",
+                       "name": "수탉이 우는 법",
                        "id": "zenyatta-every-rooster-crows",
                        "quality": "common"
                      }
@@ -3000,49 +3000,49 @@ OWI.factory('Data', function() {
                    "poses": [
                      {
                        "hero": "아나",
-                       "name": "Folded hands",
+                       "name": "포권지례",
                        "id": "ana-folded-hands",
                        "quality": "rare",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/ana-folded-hands.jpg"
                      },
                      {
                        "hero": "바스티온",
-                       "name": "Firework",
+                       "name": "폭죽",
                        "id": "bastion-firework",
                        "quality": "rare",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/bastion-firework.jpg"
                      },
                      {
                        "hero": "D.Va",
-                       "name": "Lucky Pouch",
+                       "name": "복주머니",
                        "id": "dva-lucky-pouch",
                        "quality": "rare",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/dva-lucky-pouch.jpg"
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Bad for Your Health",
+                       "name": "건강상 위험",
                        "id": "junkrat-bad-for-your-health",
                        "quality": "rare",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/junkrat-bad-for-your-health.jpg"
                      },
                      {
                        "hero": "메이",
-                       "name": "Lucky!",
+                       "name": "운수대통!",
                        "id": "mei-lucky",
                        "quality": "rare",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/mei-lucky.jpg"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "What's mine is mine",
+                       "name": "다 내 거야",
                        "id": "roadhog-whats-mine-is-mine",
                        "quality": "rare",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/roadhog-whats-mine-is-mine.jpg"
                      },
                      {
                        "hero": "솜브라",
-                       "name": "Sparklers",
+                       "name": "불꽃놀이",
                        "id": "sombra-sparklers",
                        "quality": "rare",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/poses/sombra-sparklers.jpg"
@@ -3051,49 +3051,49 @@ OWI.factory('Data', function() {
                    "skinsLegendary": [
                      {
                        "hero": "D.Va",
-                       "name": "Palanquin",
+                       "name": "꽃가마",
                        "id": "dva-palanquin",
                        "quality": "legendary",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/dva-palanquin.jpg"
                      },
                      {
                        "hero": "메이",
-                       "name": "Chang'e",
+                       "name": "창어",
                        "id": "mei-change",
                        "quality": "legendary",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/mei-change.jpg"
                      },
                      {
                        "hero": "메이",
-                       "name": "Luna",
+                       "name": "달 선녀",
                        "id": "mei-luna",
                        "quality": "legendary",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/mei-luna.jpg"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Wujing",
+                       "name": "오정",
                        "id": "reinhardt-wujing",
                        "quality": "legendary",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/reinhardt-wujing.jpg"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Bajie",
+                       "name": "팔계",
                        "id": "roadhog-bajie",
                        "quality": "legendary",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/roadhog-bajie.jpg"
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Wukong",
+                       "name": "오공",
                        "id": "winston-wukong",
                        "quality": "legendary",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/winston-wukong.jpg"
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Sanzang",
+                       "name": "삼장",
                        "id": "zenyatta-sanzang",
                        "quality": "legendary",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/skinsLegendary/zenyatta-sanzang.jpg"
@@ -3102,21 +3102,21 @@ OWI.factory('Data', function() {
                    "emotes": [
                      {
                        "hero": "D.Va",
-                       "name": "Bow",
+                       "name": "큰절",
                        "id": "dva-bow",
                        "quality": "epic",
                        "video": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/emotes/dva-bow.webm"
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Dud?",
+                       "name": "불발탄?",
                        "id": "junkrat-dud",
                        "quality": "epic",
                        "video": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/emotes/junkrat-dud.webm"
                      },
                      {
                        "hero": "메이",
-                       "name": "So Excited",
+                       "name": "신나서 견딜 수가 없네요",
                        "id": "mei-so-excited",
                        "quality": "epic",
                        "video": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/emotes/mei-so-excited.webm"
@@ -3124,117 +3124,117 @@ OWI.factory('Data', function() {
                    ],
                    "icons": [
                      {
-                       "name": "Bokimari",
+                       "name": "한복마리",
                        "id": "bokimari",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/bokimari.png"
                      },
                      {
-                       "name": "Chang'e",
+                       "name": "창어",
                        "id": "mei-change",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/mei-change.png"
                      },
                      {
-                       "name": "Coin",
+                       "name": "엽전",
                        "id": "coin",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/coin.png"
                      },
                      {
-                       "name": "Dragon Dance",
+                       "name": "용춤",
                        "id": "dragon-dance",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/dragon-dance.png"
                      },
                      {
-                       "name": "Fortune",
+                       "name": "복",
                        "id": "fortune",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/fortune.png"
                      },
                      {
-                       "name": "Fuchimari",
+                       "name": "파오마리",
                        "id": "fuchimari",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/fuchimari.png"
                      },
                      {
-                       "name": "Gold",
+                       "name": "황금",
                        "id": "gold",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/gold.png"
                      },
                      {
-                       "name": "Hanbok",
+                       "name": "한복",
                        "id": "dva-hanbok",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/dva-hanbok.png"
                      },
                      {
-                       "name": "Have Fish",
+                       "name": "생선찜",
                        "id": "have-fish",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/have-fish.png"
                      },
                      {
-                       "name": "Lantern",
+                       "name": "등불",
                        "id": "lantern",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/lantern.png"
                      },
                      {
-                       "name": "Lion Dance",
+                       "name": "사자춤",
                        "id": "lion-dance",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/lion-dance.png"
                      },
                      {
-                       "name": "Lucky Pouch",
+                       "name": "복주머니",
                        "id": "lucky-pouch",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/lucky-pouch.png"
                      },
                      {
-                       "name": "Lunamari",
+                       "name": "복숭마리",
                        "id": "lunamari",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/lunamari.png"
                      },
                      {
-                       "name": "Monkey",
+                       "name": "오공",
                        "id": "winston-monkey",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/winston-monkey.png"
                      },
                      {
-                       "name": "New Year Cake",
+                       "name": "새해 떡",
                        "id": "new-year-cake",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/new-year-cake.png"
                      },
                      {
-                       "name": "Pachilantern",
+                       "name": "등불마리",
                        "id": "pachilantern",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/pachilantern.png"
                      },
                      {
-                       "name": "Piggy",
+                       "name": "팔계",
                        "id": "roadhog-piggy",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/roadhog-piggy.png"
                      },
                      {
-                       "name": "Red Envelope",
+                       "name": "빨간 봉투",
                        "id": "red-envelope",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/red-envelope.png"
                      },
                      {
-                       "name": "Sandy",
+                       "name": "오정",
                        "id": "reinhardt-sandy",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/reinhardt-sandy.png"
                      },
                      {
-                       "name": "Sanzang",
+                       "name": "삼장",
                        "id": "zenyatta-sanzang",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/zenyatta-sanzang.png"
                      },
                      {
-                       "name": "Seollal",
+                       "name": "설날",
                        "id": "seollal",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/seollal.png"
                      },
                      {
-                       "name": "Tangerines",
+                       "name": "감귤",
                        "id": "tangerines",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/tangerines.png"
                      },
                      {
-                       "name": "Year of the Rooster",
+                       "name": "2017 붉은 닭의 해",
                        "id": "year-of-the-rooster",
                        "img": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/icons/year-of-the-rooster.png"
                      }
@@ -3242,21 +3242,21 @@ OWI.factory('Data', function() {
                    "intros": [
                      {
                        "hero": "메르시",
-                       "name": "Fortune",
+                       "name": "복 많이 받으세요",
                        "id": "mercy-fortune",
                        "quality": "epic",
                        "video": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/intros/mercy-fortune.webm"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Feast",
+                       "name": "포식",
                        "id": "roadhog-feast",
                        "quality": "epic",
                        "video": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/intros/roadhog-feast.webm"
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Lion Dance",
+                       "name": "사자춤",
                        "id": "tracer-lion-dance",
                        "quality": "epic",
                        "video": "./resources/updates/YEAR_OF_THE_ROOSTER_2017/intros/tracer-lion-dance.webm"

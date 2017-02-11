@@ -624,7 +624,7 @@ body {
 }
 
 .item.legend h3:after {
-  content: "[3000 Coins]";
+  content: "[3000 크레딧]";
   font-size: 18px;
   margin-left: 6px;
 }
