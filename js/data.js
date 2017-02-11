@@ -15,7 +15,7 @@ OWI.factory('Data', function() {
     },
     updates: {
       "SUMMER_GAMES_2016": {
-        "name": "Summer Games 2016",
+        "name": "2016 하계 스포츠 대회",
         "id": "SUMMER_GAMES_2016",
         "dates": {
           "start": "1470164400000",
@@ -721,7 +721,7 @@ OWI.factory('Data', function() {
         }
       },
       "HALLOWEEN_2016": {
-        "name": "Halloween 2016",
+        "name": "2016 공포의 할로윈",
         "id": "HALLOWEEN_2016",
         "dates": {
           "start": "1476208800000",
@@ -1453,7 +1453,7 @@ OWI.factory('Data', function() {
         }
       },
       "WINTER_WONDERLAND_2016": {
-        "name": "Winter Wonderland 2016",
+        "name": "2016 환상의 겨울나라",
         "id": "WINTER_WONDERLAND_2016",
         "dates": {
           "start": "1481652000000",
@@ -2356,7 +2356,7 @@ OWI.factory('Data', function() {
         }
       },
       "YEAR_OF_THE_ROOSTER_2017": {
-        "name": "Year of the Rooster 2017",
+        "name": "2017 붉은 닭의 해",
         "id": "YEAR_OF_THE_ROOSTER_2017",
         "dates": {
           "start": "1485280800000",
