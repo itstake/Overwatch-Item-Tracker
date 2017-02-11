@@ -712,7 +712,7 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Medals",
+                       "name": "메달",
                        "id": "zenyatta-medals",
                        "quality": "rare",
                        "img": "./resources/updates/SUMMER_GAMES_2016/poses/zenyatta-medals.jpg"
@@ -731,56 +731,56 @@ OWI.factory('Data', function() {
                    "skinsEpic": [
                      {
                        "hero": "아나",
-                       "name": "Ghoul",
+                       "name": "구울",
                        "id": "ana-ghoul",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/ana-ghoul.jpg"
                      },
                      {
                        "hero": "바스티온",
-                       "name": "Tombstone",
+                       "name": "묘비석",
                        "id": "bastion-tombstone",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/bastion-tombstone.jpg"
                      },
                      {
                        "hero": "한조",
-                       "name": "Demon",
+                       "name": "악마",
                        "id": "hanzo-demon",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/hanzo-demon.jpg"
                      },
                      {
                        "hero": "파라",
-                       "name": "Possessed",
+                       "name": "빙의",
                        "id": "pharah-possessed",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/pharah-possessed.jpg"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Coldhardt",
+                       "name": "콜드하르트",
                        "id": "reinhardt-coldhardt",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/reinhardt-coldhardt.jpg"
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Immortal",
+                       "name": "불멸자",
                        "id": "soldier-76-immortal",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/soldier-76-immortal.jpg"
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Vampire",
+                       "name": "흡혈귀",
                        "id": "symmetra-vampire",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/symmetra-vampire.jpg"
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Skullyatta",
+                       "name": "해골야타",
                        "id": "zenyatta-skullyatta",
                        "quality": "epic",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsEpic/zenyatta-skullyatta.jpg"
@@ -789,21 +789,21 @@ OWI.factory('Data', function() {
                    "emotes": [
                      {
                        "hero": "아나",
-                       "name": "Candy",
+                       "name": "사탕",
                        "id": "ana-candy",
                        "quality": "epic",
                        "video": "./resources/updates/HALLOWEEN_2016/emotes/ana-candy.webm"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Pumpkin Smash",
+                       "name": "호박 강타",
                        "id": "reinhardt-pumpkin-smash",
                        "quality": "epic",
                        "video": "./resources/updates/HALLOWEEN_2016/emotes/reinhardt-pumpkin-smash.webm"
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Shadow Puppets",
+                       "name": "그림자 놀이",
                        "id": "winston-shadow-puppets",
                        "quality": "epic",
                        "video": "./resources/updates/HALLOWEEN_2016/emotes/winston-shadow-puppets.webm"
@@ -812,119 +812,119 @@ OWI.factory('Data', function() {
                    "sprays": [
                      {
                        "hero": "아나",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "ana-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/ana-trick-or-treat.png"
                      },
                      {
                        "hero": "바스티온",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "bastion-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/bastion-trick-or-treat.png"
                      },
                      {
                        "hero": "D.Va",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "dva-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/dva-trick-or-treat.png"
                      },
                      {
                        "hero": "겐지",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "genji-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/genji-trick-or-treat.png"
                      },
                      {
                        "hero": "한조",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "hanzo-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/hanzo-trick-or-treat.png"
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "junkrat-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/junkrat-trick-or-treat.png"
                      },
                      {
                        "hero": "루시우",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "lucio-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/lucio-trick-or-treat.png"
                      },
                      {
                        "hero": "맥크리",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "mccree-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/mccree-trick-or-treat.png"
                      },
                      {
                        "hero": "메이",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "mei-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/mei-trick-or-treat.png"
                      },
                      {
                        "hero": "메르시",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "mercy-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/mercy-trick-or-treat.png"
                      },
                      {
                        "hero": "파라",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "pharah-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/pharah-trick-or-treat.png"
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "reaper-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/reaper-trick-or-treat.png"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "reinhardt-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/reinhardt-trick-or-treat.png"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "roadhog-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/roadhog-trick-or-treat.png"
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "soldier-76-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/soldier-76-trick-or-treat.png"
                      },
                      {
                        "hero": "시메트라",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "symmetra-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/symmetra-trick-or-treat.png"
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "torbjorn-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/torbjorn-trick-or-treat.png"
@@ -936,81 +936,81 @@ OWI.factory('Data', function() {
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "tracer-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/tracer-trick-or-treat.png"
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "widowmaker-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/widowmaker-trick-or-treat.png"
                      },
                      {
-                       "name": "Boop!",
+                       "name": "까꿍!",
                        "id": "boop",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/boop.png"
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "winston-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/winston-trick-or-treat.png"
                      },
                      {
                        "hero": "자리야",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "zarya-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/zarya-trick-or-treat.png"
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Trick or Treat",
+                       "name": "즐거운 할로윈",
                        "id": "zenyatta-trick-or-treat",
                        "quality": "common",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/zenyatta-trick-or-treat.png"
                      },
                      {
-                       "name": "Witch's Brew",
+                       "name": "마녀의 가마솥",
                        "id": "witchs-brew",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/witchs-brew.png"
                      },
                      {
-                       "name": "Pumpkins",
+                       "name": "호박",
                        "id": "pumpkins",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/pumpkins.png"
                      },
                      {
-                       "name": "Halloween Terror 2016",
+                       "name": "공포의 할로윈",
                        "id": "halloween-terror-2016",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/halloween-terror-2016.png"
                      },
                      {
-                       "name": "Gummy Hog",
+                       "name": "구미 호그",
                        "id": "gummy-hog",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/gummy-hog.png"
                      },
                      {
-                       "name": "Fangs",
+                       "name": "송곳니",
                        "id": "fangs",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/fangs.png"
                      },
                      {
-                       "name": "Candyball",
+                       "name": "사탕 설구",
                        "id": "candyball",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/candyball.png"
                      },
                      {
-                       "name": "Bats",
+                       "name": "박쥐",
                        "id": "bats",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/bats.png"
                      },
                      {
-                       "name": "...Never Die",
+                       "name": "...죽지 않아",
                        "id": "never-die",
                        "img": "./resources/updates/HALLOWEEN_2016/sprays/never-die.png"
                      }
@@ -1018,133 +1018,133 @@ OWI.factory('Data', function() {
                    "voicelines": [
                      {
                        "hero": "아나",
-                       "name": "Are you scared?",
+                       "name": "겁먹었나?",
                        "id": "ana-are-you-scared",
                        "quality": "common"
                      },
                      {
                        "hero": "바스티온",
-                       "name": "W-W-Wooooo...?",
+                       "name": "우우우?",
                        "id": "bastion-wwwooooo",
                        "quality": "common"
                      },
                      {
                        "hero": "D.Va",
-                       "name": "Happy Halloween!",
+                       "name": "해피 할로윈!",
                        "id": "dva-happy-halloween",
                        "quality": "common"
                      },
                      {
                        "hero": "겐지",
-                       "name": "My Halloween costume?",
+                       "name": "내 할로윈 코스튬?",
                        "id": "genji-my-halloween-costume",
                        "quality": "common"
                      },
                      {
                        "hero": "한조",
-                       "name": "You are already dead",
+                       "name": "넌 이미 죽어 있다",
                        "id": "hanzo-you-are-already-dead",
                        "quality": "common"
                      },
                      {
                        "hero": "정크랫",
-                       "name": "Happy Halloween",
+                       "name": "해피 할로윈",
                        "id": "junkrat-happy-halloween",
                        "quality": "common"
                      },
                      {
                        "hero": "루시우",
-                       "name": "Killed it!",
+                       "name": "죽이는데?",
                        "id": "lucio-killed-it",
                        "quality": "common"
                      },
                      {
                        "hero": "맥크리",
-                       "name": "It's your funeral",
+                       "name": "내 알바 아니야",
                        "id": "mccree-its-your-funeral",
                        "quality": "common"
                      },
                      {
                        "hero": "메이",
-                       "name": "Scary!",
+                       "name": "무섭죠?",
                        "id": "mei-scary",
                        "quality": "common"
                      },
                      {
                        "hero": "메르시",
-                       "name": "Superstition",
+                       "name": "그런 건 미신이죠",
                        "id": "mercy-superstition",
                        "quality": "common"
                      },
                      {
                        "hero": "파라",
-                       "name": "Dead or alive",
+                       "name": "살아서든 죽어서든",
                        "id": "pharah-dead-or-alive",
                        "quality": "common"
                      },
                      {
                        "hero": "리퍼",
-                       "name": "I work the graveyard shift",
+                       "name": "난 죽이는 일을 하지",
                        "id": "reaper-i-work-the-graveyard-shift",
                        "quality": "common"
                      },
                      {
                        "hero": "라인하르트",
-                       "name": "Smashing",
+                       "name": "호박 격파!",
                        "id": "reinhardt-smashing",
                        "quality": "common"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Want some candy?",
+                       "name": "사탕 줄까?",
                        "id": "roadhog-want-some-candy",
                        "quality": "common"
                      },
                      {
                        "hero": "솔저: 76",
-                       "name": "Knock knock",
+                       "name": "똑똑",
                        "id": "soldier-76-knock-knock",
                        "quality": "common"
                      },
                      {
                        "hero": "시메트라",
-                       "name": "A frightening thought",
+                       "name": "생각만 해도 끔찍하군요",
                        "id": "symmetra-a-frightening-thought",
                        "quality": "common"
                      },
                      {
                        "hero": "토르비욘",
-                       "name": "If you build it",
+                       "name": "만들기만 하면",
                        "id": "torbjorn-if-you-build-it",
                        "quality": "common"
                      },
                      {
                        "hero": "트레이서",
-                       "name": "Ooh, Scary!",
+                       "name": "아이고, 무서워라!",
                        "id": "tracer-ooh-scary",
                        "quality": "common"
                      },
                      {
                        "hero": "위도우메이커",
-                       "name": "The party is over",
+                       "name": "파티는 끝났어",
                        "id": "widowmaker-the-party-is-over",
                        "quality": "common"
                      },
                      {
                        "hero": "윈스턴",
-                       "name": "This is not a costume",
+                       "name": "아니요, 코스튬 아닙니다",
                        "id": "winston-this-is-not-a-costume",
                        "quality": "common"
                      },
                      {
                        "hero": "자리야",
-                       "name": "Never forget the fallen",
+                       "name": "쓰러진 이들을 잊지 맙시다",
                        "id": "zarya-never-forget-the-fallen",
                        "quality": "common"
                      },
                      {
                        "hero": "젠야타",
-                       "name": "Trick or treat?",
+                       "name": "먹거리를 안 주면 장난을 치겠소",
                        "id": "zenyatta-trick-or-treat",
                        "quality": "common"
                      }
@@ -1308,21 +1308,21 @@ OWI.factory('Data', function() {
                    "intros": [
                      {
                        "hero": "겐지",
-                       "name": "Pumpkin Carving",
+                       "name": "호박 조각하기",
                        "id": "genji-pumpkin-carving",
                        "quality": "epic",
                        "video": "./resources/updates/HALLOWEEN_2016/intros/genji-pumpkin-carving.webm"
                      },
                      {
                        "hero": "메이",
-                       "name": "Ice Scream",
+                       "name": "유령 설구",
                        "id": "mei-ice-scream",
                        "quality": "epic",
                        "video": "./resources/updates/HALLOWEEN_2016/intros/mei-ice-scream.webm"
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Eternal Rest",
+                       "name": "영원한 안식",
                        "id": "reaper-eternal-rest",
                        "quality": "epic",
                        "video": "./resources/updates/HALLOWEEN_2016/intros/reaper-eternal-rest.webm"
@@ -1331,28 +1331,28 @@ OWI.factory('Data', function() {
                    "skinsLegendary": [
                      {
                        "hero": "정크랫",
-                       "name": "Dr. Junkenstein",
+                       "name": "박사 정켄슈타인",
                        "id": "junkrat-dr-junkenstein",
                        "quality": "legendary",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsLegendary/junkrat-dr-junkenstein.jpg"
                      },
                      {
                        "hero": "메르시",
-                       "name": "Witch",
+                       "name": "마녀",
                        "id": "mercy-witch",
                        "quality": "legendary",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsLegendary/mercy-witch.jpg"
                      },
                      {
                        "hero": "리퍼",
-                       "name": "Pumpkin",
+                       "name": "호박",
                        "id": "reaper-pumpkin",
                        "quality": "legendary",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsLegendary/reaper-pumpkin.jpg"
                      },
                      {
                        "hero": "로드호그",
-                       "name": "Junkenstein's Monster",
+                       "name": "정켄슈타인의 괴물",
                        "id": "roadhog-junkensteins-monster",
                        "quality": "legendary",
                        "img": "./resources/updates/HALLOWEEN_2016/skinsLegendary/roadhog-junkensteins-monster.jpg"
@@ -1360,92 +1360,92 @@ OWI.factory('Data', function() {
                    ],
                    "icons": [
                      {
-                       "name": "...Never Die",
+                       "name": "...죽지 않아",
                        "id": "never-die",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/never-die.png"
                      },
                      {
-                       "name": "Bewitching",
+                       "name": "마녀와 달",
                        "id": "bewitching",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/bewitching.png"
                      },
                      {
-                       "name": "Calavera",
+                       "name": "칼라베라",
                        "id": "calavera",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/calavera.png"
                      },
                      {
-                       "name": "Candle",
+                       "name": "양초",
                        "id": "candle",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/candle.png"
                      },
                      {
-                       "name": "Eyeball",
+                       "name": "눈알",
                        "id": "eyeball",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/eyeball.png"
                      },
                      {
-                       "name": "Ghostymari",
+                       "name": "유령마리",
                        "id": "ghostymari",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/ghostymari.png"
                      },
                      {
-                       "name": "Halloween Terror",
+                       "name": "공포의 할로윈 2016",
                        "id": "halloween-terror",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/halloween-terror.png"
                      },
                      {
-                       "name": "Spider",
+                       "name": "거미",
                        "id": "spider",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/spider.png"
                      },
                      {
-                       "name": "Superstition",
+                       "name": "미신",
                        "id": "superstition",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/superstition.png"
                      },
                      {
-                       "name": "The Doctor",
+                       "name": "박사",
                        "id": "junkrat-the-doctor",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/junkrat-the-doctor.png"
                      },
                      {
-                       "name": "The Monster",
+                       "name": "괴물",
                        "id": "roadhog-the-monster",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/roadhog-the-monster.png"
                      },
                      {
-                       "name": "The Reaper",
+                       "name": "사신",
                        "id": "reaper-the-reaper",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/reaper-the-reaper.png"
                      },
                      {
-                       "name": "The Witch",
+                       "name": "마녀",
                        "id": "mercy-the-witch",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/mercy-the-witch.png"
                      },
                      {
-                       "name": "Tombstone",
+                       "name": "묘비석",
                        "id": "tombstone",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/tombstone.png"
                      },
                      {
-                       "name": "Vampachimari",
+                       "name": "흡혈파치마리",
                        "id": "vampachimari",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/vampachimari.png"
                      },
                      {
-                       "name": "Witch's Brew",
+                       "name": "마녀의 가마솥",
                        "id": "witchs-brew",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/witchs-brew.png"
                      },
                      {
-                       "name": "Witch's Hat",
+                       "name": "마녀의 모자",
                        "id": "witchs-hat",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/witchs-hat.png"
                      },
                      {
-                       "name": "Wolf",
+                       "name": "늑대",
                        "id": "wolf",
                        "img": "./resources/updates/HALLOWEEN_2016/icons/wolf.png"
                      }
