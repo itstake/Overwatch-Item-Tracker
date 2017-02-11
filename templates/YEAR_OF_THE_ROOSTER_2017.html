@@ -100,7 +100,7 @@
         <input type="checkbox" id="fakecb" style="display:none">
         <label for="fakecb" id="fakecheckbox"></label><span> = 용춤 스프레이</span>
       </span>
-      <span class="wot" tooltip-popup-delay="400" uib-tooltip="This event added two sprays for every character, the checkboxes are for the normal sprays and the circle boxes are for the other spray">What's this?</span>
+      <span class="wot" tooltip-popup-delay="400" uib-tooltip="이 이벤트는 모든 캐릭터에게 두개의 스프레이를 추가합니다. 네모난 체크박스는 일반 스프레이를, 동그란 체크박스는 용춤 스프레이를 얻었을 때 체크하세요.">이게 뭐죠?</span>
     </div>
     <div class="items">
       <div class="item" ng-repeat="spray in ::data.items.sprays track by $index" ng-if="::!spray.id.includes('dragon-dance')" ng-mouseover="showPreview(spray, 'spray')" ng-mouseleave="hidePreview()">
