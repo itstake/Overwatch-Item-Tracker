@@ -336,10 +336,29 @@ OWI.directive("update", ["$rootScope", "Data", "StorageService", function($rootS
 
 OWI.filter('heroPortraitUrl', function () {
   var specialHeroes = {
+    '아나': 'ana',
+    '바스티온': 'bastion',
     'd.va': 'dva',
-    'lúcio': 'lucio',
-    'soldier: 76': 'soldier-76',
-    'torbjörn': 'torbjorn'
+    '겐지': 'genji',
+    '정크랫': 'junkrat',
+    '루시우': 'lucio',
+    '맥크리': 'mccree',
+    '메이': 'mei',
+    '메르시': 'mercy',
+    '파라': 'pharah',
+    '리퍼': 'reaper',
+    '라인하르트': 'reinhardt',
+    '로드호그': 'roadhog',
+    '솔저: 76': 'soldier-76',
+    '솜브라': 'sombra',
+    '시메트라': 'symmetra',
+    '토르비욘': 'torbjorn',
+    '트레이서': 'tracer',
+    '위도우메이커': 'widowmaker',
+    '윈스턴': 'winston',
+    '자리야': 'zarya,
+    '젠야타': 'zenyatta'
+
   }
   return function(hero) {
     hero = hero.toLowerCase();
