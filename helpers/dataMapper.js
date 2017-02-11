@@ -98,7 +98,7 @@ heroes = sortObject(heroes)
 
 var allClassItems = {
   'sprays': {
-    [EVENTS.SUMMER16]: ['Summer Games'],
+    [EVENTS.SUMMER16]: ['하계 스포츠 대회'],
     [EVENTS.HALLOWEEN16]: ['...Never Die', 'Bats', 'Boo!', 'Boop!', 'Candyball', 'Fangs', 'Gummy Hog', 'Halloween Terror 2016', 'Pumpkins', 'Witch\'s Brew'],
     [EVENTS.CHRISTMAS16]: ['SnowCree', 'SnowHog', 'SnowMei', 'SnowReaper', ['Winter Wonderland']],
     [EVENTS.ROOSTER17]: ['Auspicious Lion', 'Awakened Lion', ['Dragon\'s Head'], ['Lucky Pouch'], ['Red Envelope'], ['Year of the Rooster']]

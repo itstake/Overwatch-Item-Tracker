@@ -6,10 +6,10 @@ const EVENTS = {
 }
 
 const EVENTNAMES = {
-  [EVENTS.SUMMER16]: 'Summer Games 2016',
-  [EVENTS.HALLOWEEN16]: 'Halloween 2016',
-  [EVENTS.CHRISTMAS16]: 'Winter Wonderland 2016',
-  [EVENTS.ROOSTER17]: 'Year of the Rooster 2017'
+  [EVENTS.SUMMER16]: '2016 하계 스포츠 대회',
+  [EVENTS.HALLOWEEN16]: '2016 할로윈',
+  [EVENTS.CHRISTMAS16]: '2016 환상의 겨울나라',
+  [EVENTS.ROOSTER17]: '2017 붉은 닭의 해'
 }
 
 const EVENTTIMES = {
