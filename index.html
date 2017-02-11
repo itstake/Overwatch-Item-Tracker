@@ -1,10 +1,10 @@
 <html ng-app="OWI">
 <head>
-  <title>Overwatch Items Tracker</title>
+  <title>오버워치 아이템 트래커</title>
   <link rel="manifest" href="./manifest.json">
   <meta charset="UTF-8">
-  <meta name="application-name" content="Overwatch Item Tracker">
-  <meta name="apple-mobile-web-app-title" content="Overwatch Item Tracker">
+  <meta name="application-name" content="오버워치 아이템 트래커">
+  <meta name="apple-mobile-web-app-title" content="오버워치 아이템 트래커">
   <meta name="theme-color" content="#2d2d2d">
   <meta name="msapplication-navbutton-color" content="#2d2d2d">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -28,7 +28,7 @@
   <div id="header">
     <div class="left">
       <img uib-tooltip="Boop" tooltip-placement="bottom" src="./resources/logo.svg">
-      <h1>Overwatch Item Tracker</h1>
+      <h1>오버워치 아이템 트래커</h1>
       <div class="event-selector btn-group" uib-dropdown>
         <button id="event-selector-button" type="button" class="btn" uib-dropdown-toggle>
           {{$ctrl.updates[$ctrl.selectedUpdate].name}} <span class="caret"></span>
@@ -38,12 +38,12 @@
         </ul>
       </div>
       <div ng-show="$ctrl.updates[$ctrl.selectedUpdate].dates.end > $ctrl.currentDate" class="event-active">
-        <h2>Event ends on {{$ctrl.updates[$ctrl.selectedUpdate].dates.end | date:'MMM d'}} local time</h2>
-        <h3>Be sure to get everything you want by {{$ctrl.updates[$ctrl.selectedUpdate].dates.end - 86400000 | date:'MMM d'}} to be safe!</h3>
+        <h2>당신이 사는 곳 기준으로 {{$ctrl.updates[$ctrl.selectedUpdate].dates.end | date:'MMM d'}} 에 이벤트가 끝납니다</h2>
+        <h3>갖고 싶은 것이 있다면 {{$ctrl.updates[$ctrl.selectedUpdate].dates.end - 86400000 | date:'MMM d'}} 전까지 아이템을 획득하세요!</h3>
       </div>
       <div ng-show="$ctrl.updates[$ctrl.selectedUpdate].dates.end < $ctrl.currentDate" class="event-ended">
-        <h2>Event ended on {{$ctrl.updates[$ctrl.selectedUpdate].dates.end | date:'MMM d yyyy'}}  local time</h2>
-        <h3>These items should be available again around {{$ctrl.updates[$ctrl.selectedUpdate].dates.start | date:'MMM d'}} next year</h3>
+        <h2>당신이 사는 곳 기준으로 {{$ctrl.updates[$ctrl.selectedUpdate].dates.end | date:'MMM d yyyy'}}  에 이벤트가 끝났습니다.</h2>
+        <h3>이 아이템들은 내년 {{$ctrl.updates[$ctrl.selectedUpdate].dates.start | date:'MMM d'}} 쯤에 다시 얻으실 수 있습니다.</h3>
       </div>
     </div>
     <div class="right">
@@ -68,7 +68,7 @@
     </div>
   </div>
   <!--<Particles ng-if="::$ctrl.particles"></Particles>-->
-  <div id="protip">Pro Tip: Hover over items to view a preview.</div>
+  <div id="protip">팁:아이템 위를 가르켜 아이템을 미리 보세요.</div>
 
   <Update ng-repeat="(update, data) in $ctrl.updates" template="{{update}}" data="data" ng-if="$ctrl.selectedUpdate == update"></Update>
 

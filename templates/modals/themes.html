@@ -1,13 +1,13 @@
 <div id="settings" class="themes">
   <div class="modal-header">
-      <h2 class="modal-title"><span uib-tooltip="Boop" tooltip-placement="right">Themes</span></h2>
+      <h2 class="modal-title"><span uib-tooltip="Boop" tooltip-placement="right">테마</span></h2>
   </div>
   <div class="modal-body" id="modal-body">
     <div class="setting">
-      <h3>Standard <span class="selected" ng-show="settings.currentTheme == 'standard'">Selected</span></h3>
-      <p>The normal theme the site is made in</p>
+      <h3>일반 <span class="selected" ng-show="settings.currentTheme == 'standard'">선택됨</span></h3>
+      <p>기본 테마</p>
       <div class="img" style="background-image: url('./css/sample.jpg')" ng-click="settings.selectTheme('standard')"></div>
-      <div class="madeBy">Made by <a target="_blank" href="https://github.com/DirtDiglett">Js41637</a>, initial design by Lalato &amp; Izzepizze</div>
+      <div class="madeBy"><a target="_blank" href="https://github.com/DirtDiglett">Js41637</a> 제작, 기본 디자인: Lalato &amp; Izzepizze</div>
     </div>
     <div class="setting">
       <h3>Event Styled Layouts <span class="selected"  ng-show="settings.currentTheme == 'dirtdiglett'">Selected</span></h3>

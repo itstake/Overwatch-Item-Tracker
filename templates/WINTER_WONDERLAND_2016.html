@@ -5,7 +5,7 @@
   <div id="col2" class="col">
     <div id="voicelines" class="section flex-column x2">
       <div class="section-header">
-        <h2>Voice Lines <small>75</small></h2>
+        <h2>음성 대사 <small>75</small></h2>
       </div>
       <div class="items">
         <div class="item" ng-repeat="voice in ::data.items.voicelines track by $index">
@@ -20,7 +20,7 @@
     <div class="right">
       <div id="icons" class="section flex-column x2">
         <div class="section-header">
-          <h2>Player Icons</h2>
+          <h2>플레이어 아이콘</h2>
         </div>
         <div class="items">
           <div class="item" ng-repeat="icon in ::data.items.icons track by $index" ng-mouseover="showPreview(icon, 'icon')" ng-mouseleave="hidePreview()">
@@ -38,7 +38,7 @@
   <div class="left">
     <div id="epic-skins" class="section">
       <div class="section-header">
-        <h2>Epic Skins <small>750</small></h2>
+        <h2>영웅 스킨 <small>750</small></h2>
       </div>
       <div class="items">
         <div class="item" ng-repeat="skin in ::data.items.skinsEpic track by $index" ng-mouseover="showPreview(skin)" ng-mouseleave="hidePreview()">
@@ -54,7 +54,7 @@
   <div class="right">
     <div id="highlight-intros" class="section">
       <div class="section-header">
-        <h2>Highlight Intros <small>750</small></h2>
+        <h2>하이라이트 연출 <small>750</small></h2>
       </div>
       <div class="items">
         <div class="item" ng-repeat="intro in ::data.items.intros track by $index" ng-mouseover="showPreview(intro)" ng-mouseleave="hidePreview()">
@@ -68,7 +68,7 @@
     </div>
     <div id="emotes" class="section">
       <div class="section-header">
-        <h2>Emotes <small>750</small></h2>
+        <h2>감정 표현 <small>750</small></h2>
       </div>
       <div class="items">
         <div class="item" ng-repeat="emote in ::data.items.emotes track by $index" ng-class="{legend: emote.legendary}" ng-mouseover="showPreview(emote)" ng-mouseleave="hidePreview()">
@@ -83,7 +83,7 @@
   </div>
   <div id="victoryposes" class="section flex-column">
     <div class="section-header">
-      <h2>Victory Poses <small>225</small></h2>
+      <h2>승리 포즈 <small>225</small></h2>
     </div>
     <div class="items">
       <div class="item" ng-repeat="pose in ::data.items.poses track by $index" ng-mouseover="showPreview(pose)" ng-mouseleave="hidePreview()">
@@ -97,10 +97,10 @@
   </div>
   <div id="sprays" class="section flex-column x4">
     <div class="section-header">
-      <h2>Sprays <small>75</small></h2>
+      <h2>스프레이 <small>75</small></h2>
       <span id="ornamentinfo">
         <input type="checkbox" id="fakecb" style="display:none">
-        <label for="fakecb" id="fakecheckbox"></label><span> = Ornament Spray</span>
+        <label for="fakecb" id="fakecheckbox"></label><span> = 장식 스프레이</span>
       </span>
       <span class="wot" tooltip-popup-delay="400" uib-tooltip="This event added two sprays for every character, the checkboxes are for the normal sprays and the circle boxes are for each characters 'Ornament' Spray">What's this?</span>
     </div>

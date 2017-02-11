@@ -1,12 +1,12 @@
 <div id="settings">
   <div class="modal-header">
-      <h2 class="modal-title">Settings</h2>
+      <h2 class="modal-title">설정</h2>
   </div>
   <div class="modal-body" id="modal-body">
     <div class="setting">
-      <h3>Reset Saved Data</h3>
-      <p><strong>Warning!</strong> Doing this will reset all items you have selected</p>
-      <button class="btn btn-danger" type="button" ng-click="settings.resetData()">Erase Data</button>
+      <h3>저장된 데이터 초기화</h3>
+      <p><strong>주의!</strong> 선택한 모든 아이템이 지워집니다!</p>
+      <button class="btn btn-danger" type="button" ng-click="settings.resetData()">데이터 삭제</button>
     </div>
     <!--<div class="setting">
       <h3>Particles</h3>
@@ -14,24 +14,24 @@
       <button class="btn btn-primary" type="button" ng-click="settings.toggleSetting('particles')">{{::settings.particles ? 'Disable' : 'Enable'}}</button>
     </div>-->
     <div class="setting">
-      <h3>Select All Items</h3>
-      <p>Marks all items for every event as selected</p>
-      <button class="btn btn-primary" type="button" ng-click="settings.selectAll()">Select Everything!</button>
+      <h3>모든 아이템 선택</h3>
+      <p>모든 이벤트의 아이템을 선택합니다.</p>
+      <button class="btn btn-primary" type="button" ng-click="settings.selectAll()">모두 선택!</button>
     </div>
     <div class="setting">
-      <h3>HD Videos</h3>
-      <p>Disable or enable showing HD videos of Highlight Intros and Emotes</p>
-      <button class="btn btn-primary" type="button" ng-click="settings.toggleSetting('hdVideos')">{{settings.hdVideos ? 'Disable' : 'Enable'}}</button>
+      <h3>HD 비디오</h3>
+      <p>하이라이트 연출과 감정 표현 미리보기에서 HD 비디오를 사용합니다.</p>
+      <button class="btn btn-primary" type="button" ng-click="settings.toggleSetting('hdVideos')">{{settings.hdVideos ? '비활성화' : '활성화'}}</button>
     </div>
     <div class="setting">
-      <h3>Import/Export Data</h3>
-      <p>Copy and paste this string into your other browser or store it in a file for backup. You can also input your export and import it with the overwrite button.</p>
+      <h3>데이터 가져오기/내보내기</h3>
+      <p>이 문자열을 복사하여 다른 브라우저에 데이터를 옮깁니다. 다른 브라우저에서 데이터를 붙여넣은 뒤 덮어쓰기 버튼을 누르면 데이터를 가져올 수 있습니다.</p>
       <div ng-show="settings.importErrors" class="alert alert-danger">
-        <strong>Error:</strong>
+        <strong>오류:</strong>
         <pre>{{settings.importErrors}}</pre>
       </div>
       <textarea type="text" class="form-control" ng-model="settings.data" rows="5"></textarea>
-      <button class="btn btn-warning" type="button" ng-click="settings.importData(settings.data)">Overwrite data!</button>
+      <button class="btn btn-warning" type="button" ng-click="settings.importData(settings.data)">데이터 덮어쓰기!</button>
     </div>
   </div>
   <div class="modal-footer">

@@ -3,7 +3,7 @@
         <div class="hero-selector hero-selector-global" ng-if="hasGlobalItems" ng-click="setSelectedHero('global');" ng-class="{ selected: selectedHero == 'global' }">
             <img src="./resources/logo.svg" />
             <div class="hero-name">
-                All heroes
+                모든 영웅
                 <div class="hero-progress">
                     <div class="hero-progress-bar">
                         <div class="hero-progress-bar-inner" ng-style="{ width: perHeroProgress.global.current / perHeroProgress.global.total * 100 + '%' }"></div>
@@ -32,8 +32,8 @@
             <div class="bg2"></div>
             <div class="bg">
               <div class="card-content">
-                <h4 ng-if="preview.type == 'icon'" class="card-heading">Player Icon</h4>
-                <h4 ng-if="preview.type != 'icon'" class="card-heading">{{preview.hero || 'All Heroes'}}</h4>
+                <h4 ng-if="preview.type == 'icon'" class="card-heading">플레이어 아이콘</h4>
+                <h4 ng-if="preview.type != 'icon'" class="card-heading">{{preview.hero || '모든 영웅'}}</h4>
                 <p class="card-copy">{{preview.name}}</p>
               </div>
             </div>
@@ -45,7 +45,7 @@
             <video autoplay="true" autostart="true" loop="true" src="{{preview.video}}"></video>
             <div class="bg">
               <div class="card-content">
-                <h4 class="card-heading">{{preview.hero || 'All Heroes'}}</h4>
+                <h4 class="card-heading">{{preview.hero || '모든 영웅'}}</h4>
                 <p class="card-copy">{{preview.name}}</p>
               </div>
             </div>
